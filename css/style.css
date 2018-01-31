@@ -135,4 +135,6 @@ section {
 
 #social {
   position: fixed;
+  top: 200p;
+  right: 20px;
 }
